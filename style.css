@@ -1,0 +1,100 @@
+a {
+  text-decoration: none;
+}
+.top {
+  color: black;
+  float: right;
+  word-spacing: 15px;
+  display: inline-block;
+}
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+#apps {
+  width: 25px;
+  height: 25px;
+}
+#bell {
+  width: 25px;
+  height: 25px;
+}
+._A {
+  float: right;
+  width: 32px;
+  height: 32px;
+  background-color: #1A7F72;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  border-radius: 50%;
+}
+.white {
+  color: white;
+}
+.logo {
+  width: 272px;
+  height: 201px;
+  position: absolute;
+  margin: 165px  750px;
+}
+#text_box {
+  width: 484px;
+  height: 38px;
+  border-radius: 0px;
+  font-size: 15px
+}
+.s_box {
+  padding: 15px;
+}
+.l_button{
+  margin-top: 25px;
+  margin-right:350px;
+  margin-left: 105px;
+  position: absolute;
+}
+.r_button{
+  margin-top: 25px;
+  margin-left: 250px;
+  position: absolute;
+}
+#search{
+  width: 132px;
+  height: 36px;
+  border-radius: 0;
+  background-color: #f2f2f2;
+  float: left;
+  border: none;
+}
+#lucky {
+  width: 132px;
+  height: 36px;
+  border-radius: 0;
+  background-color: #f2f2f2;
+  float: right;
+  border:none;
+}
+.foot {
+  background-color: #CFD0D1;
+  width: 2048px;
+  height: 41px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  margin: 0 auto;
+  word-spacing: 10px;
+  font-size: 12px
+ }
+.l_foot{
+  float: left;
+}
+.r_foot{
+  float: right;
+  padding-right:5px;
+}
+ul {
+  display: inline-block;
+}
+li {
+  display: inline;
+}
